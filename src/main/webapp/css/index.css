@@ -1,0 +1,211 @@
+
+ body {
+       padding-top: 0 !important;
+       padding-bottom: 0 !important;
+       padding-top: 0 !important;
+       padding-bottom: 0 !important;
+       margin:0 !important;
+       width: 100% !important;
+       -webkit-text-size-adjust: 100% !important;
+       -ms-text-size-adjust: 100% !important;
+       -webkit-font-smoothing: antialiased !important;
+     }
+     .tableContent img {
+       border: 0 !important;
+       display: block !important;
+       outline: none !important;
+     }
+     a{
+      color:#382F2E;
+    }
+
+    p, h1{
+      margin:0;
+    }
+
+    div,p,ul,h1{
+      margin:0;
+    }
+
+    .bigger{
+      font-size: 24px;
+    }
+    .bgBody{
+      background: #333333;
+    }
+    .bgItem{
+      background: #ffffff;
+    }
+    h2{
+      color:#444444;
+      font-size:16px;
+      font-weight:normal;
+      margin:0;
+    }
+    p{
+      color:#AAAAAA;
+      font-size:13px;
+      line-height:19px;
+      font-weight:normal;
+    }
+    a.link2{
+      padding:10px 20px;
+      border-radius:3px;
+      -moz-border-radius:3px;
+      -webkit-border-radius:3px;
+      color:#ffffff;
+      font-size:13px;
+      background:#C3CAA9;
+      text-decoration:none;
+    }
+
+    a.link1{
+      font-weight:bold;
+      color:#7E8564;
+      font-size:13px;
+    }
+	
+@media only screen and (max-width:480px)
+		
+{
+		
+table[class="MainContainer"], td[class="cell"] 
+	{
+		width: 100% !important;
+		height:auto !important; 
+	}
+td[class="specbundle"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:15px !important;
+	}
+	
+	td[class="specbundle_img"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		display:block !important;
+		font-size:13px !important;
+		line-height:17px !important;
+	}	
+	
+td[class="specbundle2"] 
+	{
+		width:90% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:5% !important;
+		padding-right:5% !important;
+		text-align:center !important;
+	}
+	
+	td[class="specbundle3"] 
+	{
+		width:70% !important;
+		float:left !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:15% !important;
+		padding-right:15% !important;
+	}
+		
+td[class="spechide"] 
+	{
+		display:none !important;
+	}
+	    img[class="banner"] 
+	{
+	          width: 100% !important;
+	          height: auto !important;
+	}
+	img[class="banner1"] 
+	{
+	          width: 95% !important;
+	          height: auto !important;
+	}
+		td[class="left_pad"] 
+	{
+			padding-left:15px !important;
+			padding-right:15px !important;
+	}
+		 
+}
+	
+@media only screen and (max-width:540px) 
+
+{
+		
+table[class="MainContainer"], td[class="cell"] 
+	{
+		width: 100% !important;
+		height:auto !important; 
+	}
+td[class="specbundle"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:15px !important;
+	}	
+td[class="specbundle2"] 
+	{
+		width:90% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:5% !important;
+		padding-right:5% !important;
+		text-align:center !important;
+	}
+	
+	td[class="specbundle_img"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		display:block !important;
+		font-size:13px !important;
+		line-height:17px !important;
+	}
+	
+	td[class="specbundle3"] 
+	{
+		width:70% !important;
+		float:left !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:15% !important;
+		padding-right:15% !important;
+	}
+		
+td[class="spechide"] 
+	{
+		display:none !important;
+	}
+	    img[class="banner"] 
+	{
+	          width: 100% !important;
+	          height: auto !important;
+	}
+	img[class="banner1"] 
+	{
+	          width: 95% !important;
+	          height: auto !important;
+	}
+		td[class="left_pad"] 
+	{
+			padding-left:15px !important;
+			padding-right:15px !important;
+	}
+		
+}
